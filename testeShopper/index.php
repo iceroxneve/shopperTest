@@ -25,7 +25,7 @@
 				<input type='submit' class='btnDelete' value='REMOVER' name='btn_deleteClient'>
 				<div class='deleteTip'><b>Para excluir um cliente, escolha um nome da lista e clique em remover.</b></div>
 				<input class='updateBtn'type='submit' value='ATUALIZAR' name='btn_updateClient'>
-				<div class='updateTip'><b>Para atualizar um dado de cliente, escolha um nome da lista e altere os dados conforme desejar.</b></div>
+				<div class='updateTip'><b>Para atualizar um dado de cliente, escolha um RG da lista e altere os dados conforme desejar.</b></div>
 				
 			</form>
 	<form method='post' action='<?php echo $_SERVER['PHP_SELF']; ?>'>		
